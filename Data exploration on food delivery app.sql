@@ -1,4 +1,3 @@
---Explored food delivery application dataset in MS SQL server and captured business requirements.
 
 --1	What is the total amount spent by each customer on Zomato?
 
