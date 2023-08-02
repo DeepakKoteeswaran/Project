@@ -1,0 +1,13 @@
+name: azure_ml
+channels:
+  - defaults
+dependencies:
+  - python=3.8.5   # or 2.7
+  - anaconda
+  - scikit-learn=1.2.1
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - azureml-sdk
+    - azureml-defaults
